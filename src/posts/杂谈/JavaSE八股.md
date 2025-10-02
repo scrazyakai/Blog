@@ -21,7 +21,7 @@ JDK(Java开发工具包)：一整套完整的JavaJDK
 
 JRE(Java运行环境)：包括Java运行需要的库以及JVM
 
-![img](../图片/img.png)
+![img.png](../%E5%9B%BE%E7%89%87/img.png)
 
 ## 3. 说说什么是跨平台，原理是什么
 
