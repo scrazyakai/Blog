@@ -48,4 +48,3 @@ jobs:
           # 部署文档
           branch: pages
           folder: src/.vuepress/dist
-          fqdn: 52xinxin.top
