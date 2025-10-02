@@ -5,7 +5,7 @@ categories:
  - 八股
 tags:
  - JavaSE八股
-cover: https://akainews.oss-cn-beijing.aliyuncs.com/images/top-1.gif
+cover: "https://akainews.oss-cn-beijing.aliyuncs.com/images/top-1.gif"
 ---
 
 
