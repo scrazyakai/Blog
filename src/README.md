@@ -3,7 +3,7 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: https://akainews.oss-cn-beijing.aliyuncs.com/images/log.gif
+heroImage: https://akainews.oss-cn-beijing.aliyuncs.com/images/lxh_71.gif
 heroText: 青云小筑
 bgImage: "https://akainews.oss-cn-beijing.aliyuncs.com/images/background.png"
 heroFullScreen: true
