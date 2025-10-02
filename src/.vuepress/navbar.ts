@@ -4,7 +4,7 @@ export default navbar([
   "/",
    // "/demo/",
     "/posts/算法/",
-    "/posts/杂谈",
+    "/posts/杂谈/",
     "/posts/项目/",
   {
     text: "博文",
