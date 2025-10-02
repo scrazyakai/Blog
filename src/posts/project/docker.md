@@ -3,7 +3,7 @@ title: Docker基本命令
 icon: pen-to-square
 date: 2025-8-2
 categories:
- - Project
+ - project
 tags:
  - docker
 ---

@@ -13,25 +13,25 @@ export default sidebar({
     {
       text: "算法",
       icon: "book",
-      prefix: "posts/Algorithm",
+      prefix: "posts/algorithm",
       children: "structure",
     },
     {
       text: "项目",
       icon: "book",
-      prefix: "posts/Project",
+      prefix: "posts/project",
       children: "structure",
     },
     {
       text: "杂谈",
       icon: "book",
-      prefix: "posts/Posts",
+      prefix: "posts/posts",
       children: "structure",
     },
     {
       text: "其他",
       icon: "book",
-      prefix: "posts/Others",
+      prefix: "posts/other",
       children: "structure",
     }
 

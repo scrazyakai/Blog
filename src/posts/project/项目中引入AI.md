@@ -3,7 +3,7 @@ title: JDK8项目中引入千问AI
 icon: pen-to-square
 date: 2025-8-7
 categories:
- - Posts
+ - posts
 tags:
  - AI
 ---
