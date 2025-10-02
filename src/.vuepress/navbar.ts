@@ -13,8 +13,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "/algorithm",
         children: [
-          { text: "二分", icon: "pen-to-square", link: "1" },
-          { text: "递归", icon: "pen-to-square", link: "2" },
+          { text: "二分", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E4%BA%8C%E5%88%86.html" },
+          { text: "回溯", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E5%9B%9E%E6%BA%AF.html" },
           "3",
           "4",
         ],
