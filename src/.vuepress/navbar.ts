@@ -4,7 +4,7 @@ export default navbar([
   "/",
    // "/demo/",
     "/posts/算法/",
-    "/posts/posts/",
+    "/posts/杂谈/",
     "/posts/项目/",
   {
     text: "博文",
@@ -16,8 +16,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "/算法",
         children: [
-          { text: "二分", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E4%BA%8C%E5%88%86.html" },
-          { text: "回溯", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E5%9B%9E%E6%BA%AF.html" },
+          { text: "二分", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86.html" },
+          { text: "回溯", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF.html" },
           // "3",
           // "4",
         ],
@@ -30,12 +30,12 @@ export default navbar([
           {
             text: "Docker",
             icon: "pen-to-square",
-            link: "https://scrazyakai.github.io/blog/posts/project/docker.html",
+            link: "https://scrazyakai.github.io/blog/posts/%E9%A1%B9%E7%9B%AE/docker.html",
           },
           {
             text: "面经",
             icon: "pen-to-square",
-            link: "https://scrazyakai.github.io/blog/posts/project/%E9%9D%A2%E8%AF%95%E9%81%87%E5%88%B0%E7%9A%84%E9%A2%98.html",
+            link: "https://scrazyakai.github.io/blog/posts/%E9%A1%B9%E7%9B%AE/%E9%9D%A2%E8%AF%95%E9%81%87%E5%88%B0%E7%9A%84%E9%A2%98.html",
           },
         ],
       },

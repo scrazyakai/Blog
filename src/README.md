@@ -12,17 +12,17 @@ projects:
   - icon: folder-open
     name: 算法
     desc: 项目详细描述
-    link: https://scrazyakai.github.io/blog/posts/algorithm/
+    link: https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/
 
   - icon: link
     name: 项目
     desc: 项目学习
-    link: https://scrazyakai.github.io/blog/posts/project/
+    link: https://scrazyakai.github.io/blog/posts/%E9%A1%B9%E7%9B%AE/
 
   - icon: book
     name: 杂谈
     desc: 小记
-    link: https://scrazyakai.github.io/blog/posts/posts/
+    link: https://scrazyakai.github.io/blog/posts/%E6%9D%82%E8%B0%88/
 
 #  - icon: newspaper
 #    name: 文章名称
