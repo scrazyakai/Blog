@@ -40,6 +40,9 @@ projects:
 #    link: https://你的自定义链接
 
 footer: 青云小筑 · 心安之处即桃源
+    <img src="https://www.beian.gov.cn/img/new/gongan.png" >
+  <a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2025147212号-1</a> | Copyright © 2025-present
+
 ---
 
 [//]: # (青云小筑 · 心安之处即桃源)
