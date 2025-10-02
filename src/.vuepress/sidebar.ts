@@ -11,16 +11,35 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "文章",
+      text: "算法",
       icon: "book",
-      prefix: "posts/",
+      prefix: "posts/Algorithm",
       children: "structure",
     },
-    "intro",
     {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+      text: "项目",
+      icon: "book",
+      prefix: "posts/Project",
+      children: "structure",
     },
+    {
+      text: "杂谈",
+      icon: "book",
+      prefix: "posts/Posts",
+      children: "structure",
+    },
+    {
+      text: "其他",
+      icon: "book",
+      prefix: "posts/Others",
+      children: "structure",
+    }
+
+    // "intro",
+    // {
+    //   text: "幻灯片",
+    //   icon: "person-chalkboard",
+    //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+    // },
   ],
 });
