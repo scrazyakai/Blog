@@ -2,7 +2,10 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  // "/demo/",
+   "/demo/",
+    "/posts/algorithm/",
+    "/posts/posts/",
+    "/posts/project/",
   {
     text: "博文",
     icon: "pen-to-square",
