@@ -21,7 +21,7 @@ JDK(Java开发工具包)：一整套完整的JavaJDK
 
 JRE(Java运行环境)：包括Java运行需要的库以及JVM
 
-![img](https://xcnd3kl8v2nj.feishu.cn/space/api/box/stream/download/asynccode/?code=MTcwNzIwZjYxNzdhNmQ4NWM5ZDZlNzA3OGVkZGZkNWZfdG1qOG1RNEJORHQwaTVFSzJrazVZMXZTdHc2UWwzTGVfVG9rZW46Sko2S2JYZXVXb3dwSFZ4NzVIYWNPb0xjbnRoXzE3NTk0MTM0NjM6MTc1OTQxNzA2M19WNA)
+![img](图片/img.png)
 
 ## 3. 说说什么是跨平台，原理是什么
 
