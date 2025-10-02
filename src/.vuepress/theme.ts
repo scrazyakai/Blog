@@ -78,6 +78,10 @@ export default hopeTheme({
         hint: "Password: 1234",
         password: "1234",
       },
+      "/posts/算法/二分.html": {
+        hint: "该文档已加密",
+        password: "1234"
+      }
     },
   },
 
