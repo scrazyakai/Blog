@@ -13,8 +13,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "/algorithm",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
+          { text: "二分", icon: "pen-to-square", link: "1" },
+          { text: "递归", icon: "pen-to-square", link: "2" },
           "3",
           "4",
         ],
