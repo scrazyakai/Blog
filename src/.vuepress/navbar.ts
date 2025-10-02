@@ -2,10 +2,10 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-   "/demo/",
-    "/posts/algorithm/",
+   // "/demo/",
+    "/posts/算法/",
     "/posts/posts/",
-    "/posts/project/",
+    "/posts/项目/",
   {
     text: "博文",
     icon: "pen-to-square",
@@ -14,7 +14,7 @@ export default navbar([
       {
         text: "算法",
         icon: "pen-to-square",
-        prefix: "/algorithm",
+        prefix: "/算法",
         children: [
           { text: "二分", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E4%BA%8C%E5%88%86.html" },
           { text: "回溯", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/algorithm/%E5%9B%9E%E6%BA%AF.html" },
@@ -25,7 +25,7 @@ export default navbar([
       {
         text: "项目",
         icon: "pen-to-square",
-        prefix: "/project",
+        prefix: "/项目",
         children: [
           {
             text: "Docker",
