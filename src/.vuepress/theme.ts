@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/scrazyakai?tab=repositories",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://akainews.oss-cn-beijing.aliyuncs.com/images/lxh_71.gif",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -64,10 +64,10 @@ export default hopeTheme({
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // VuePressThemeHope: {
+      //   icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 
