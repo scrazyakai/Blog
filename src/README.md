@@ -5,6 +5,7 @@ icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 青云小筑
+bgImageStyle: "https://akainews.oss-cn-beijing.aliyuncs.com/images/background.png"
 heroFullScreen: true
 tagline: 青云小筑 · 心安之处即桃源
 projects:
