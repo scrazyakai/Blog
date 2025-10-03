@@ -16,8 +16,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "/算法",
         children: [
-          { text: "二分", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86.html" },
-          { text: "回溯", icon: "pen-to-square", link: "https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF.html" },
+          { text: "二分", icon: "pen-to-square", link: "https://www.52xinxin.top/posts/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86.html" },
+          { text: "回溯", icon: "pen-to-square", link: "https://www.52xinxin.top/posts/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF.html" },
           // "3",
           // "4",
         ],
