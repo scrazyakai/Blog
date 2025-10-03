@@ -5,7 +5,7 @@ icon: house
 title: 主页
 heroImage: "lxh_71.gif"
 heroText: 青云小筑
-bgImage: "background.png"
+bgImage: "https://akainews.oss-cn-beijing.aliyuncs.com/images/background.png"
 heroFullScreen: true
 tagline: 青云小筑 · 心安之处即桃源
 projects:
