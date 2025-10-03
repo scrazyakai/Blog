@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://github.com/scrazyakai?tab=repositories",
   },
 
-  logo: "https://akainews.oss-cn-beijing.aliyuncs.com/images/lxh_71.gif",
+  logo: "lxh_71.gif",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -79,7 +79,7 @@ export default hopeTheme({
         password: "1234",
       },
       "/posts/算法/二分.html": {
-        hint: "该文档已加密",
+        hint: "该文档已加密1234",
         password: "1234"
       }
     },

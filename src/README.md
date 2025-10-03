@@ -5,24 +5,24 @@ icon: house
 title: 主页
 heroImage: https://akainews.oss-cn-beijing.aliyuncs.com/images/lxh_71.gif
 heroText: 青云小筑
-bgImage: "https://akainews.oss-cn-beijing.aliyuncs.com/images/background.png"
+bgImage: "/background.png"
 heroFullScreen: true
 tagline: 青云小筑 · 心安之处即桃源
 projects:
   - icon: folder-open
     name: 算法
     desc: 项目详细描述
-    link: https://scrazyakai.github.io/blog/posts/%E7%AE%97%E6%B3%95/
+    link: https://www.52xinxin.top/posts/%E7%AE%97%E6%B3%95/
 
   - icon: link
     name: 项目
     desc: 项目学习
-    link: https://scrazyakai.github.io/blog/posts/%E9%A1%B9%E7%9B%AE/
+    link: https://www.52xinxin.top/posts/%E9%A1%B9%E7%9B%AE/
 
   - icon: book
     name: 杂谈
     desc: 小记
-    link: https://scrazyakai.github.io/blog/posts/%E6%9D%82%E8%B0%88/
+    link: https://www.52xinxin.top/posts/%E6%9D%82%E8%B0%88/
 
 #  - icon: newspaper
 #    name: 文章名称
