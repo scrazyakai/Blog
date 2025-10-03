@@ -3,9 +3,9 @@ home: true
 layout: Blog
 icon: house
 title: 主页
-heroImage: https://akainews.oss-cn-beijing.aliyuncs.com/images/lxh_71.gif
+heroImage: "lxh_71.gif"
 heroText: 青云小筑
-bgImage: "/background.png"
+bgImage: "background.png"
 heroFullScreen: true
 tagline: 青云小筑 · 心安之处即桃源
 projects:
