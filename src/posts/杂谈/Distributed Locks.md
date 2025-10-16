@@ -11,12 +11,14 @@ tags:
 
 ## 什么是分布式锁
 
-    单体项目直接使用JVM的*synchronized*或 *ReentrantLock*来保证同一时间仅有一个线程访问某个资源。但是在 *分布式系统*（多个服务实例）中，不同节点的线程互相隔离，JVM 内的锁不再有效，需要一个 *跨节点的锁——分布式锁*
-
-    简而言之👉*分布式锁*是为了解决分布式系统中多节点（多个服务实例）之间对共享资源的并发访问控制问题而产生的一种锁机制。
+    单体项目直接使用JVM的synchronized或ReentrantLock来保证同一时间仅有一个线程访问某个资源。但是在分布式系统
+    （多个服务实例）中，不同节点的线程互相隔离，JVM 内的锁不再有效，需要一个 跨节点的锁——分布式锁
+    
+    简而言之👉分布式锁是为了解决分布式系统中多节点（多个服务实例）之间对共享资源的并发访问控制问题而产生的一种锁机制。
 ![image-20251016214415205.png](../%E5%9B%BE%E7%89%87/image-20251016214415205.png)
 
-    例如图中如果不加任何限制同一时间可能会在三个服务器中分别创建变量A，这就会导致对共享资源（这里的变量 A 可视为共享资源）的并发访问出现问题，比如数据不一致等
+    例如图中如果不加任何限制同一时间可能会在三个服务器中分别创建变量A，这就会导致对共享资源（这里的变量 A 可视为共享
+    资源）的并发访问出现问题，比如数据不一致等
 
 ## 一个合格的分布式锁的特点
 
@@ -128,9 +130,9 @@ private void renewExpiration() {
 
 ```
 
-## 业务代码实现
+### 业务代码实现
 
-###  引入依赖
+####  引入依赖
 
 ```xml
 <dependency>
@@ -141,7 +143,7 @@ private void renewExpiration() {
 
 ```
 
-### 配置Redisson
+#### 配置Redisson
 
 ```java
 import org.redisson.Redisson;
@@ -166,11 +168,11 @@ public class RedissonManager {
 
 ```
 
-### 业务代码
+#### 业务代码
 
-`RedissonClient client = RedissonManager.getClient();`不是Redis 里立刻创建一个实体对象”。它只是**根据 key 名称（这里是 `"myLock"`）返回一个锁对象的引用**；
+* `RedissonClient client = RedissonManager.getClient();`不是Redis 里立刻创建一个实体对象”。它只是**根据 key 名称（这里是 `"myLock"`）返回一个锁对象的引用**；
 
-`lock.lock();`才是真正向Redis中写入键，尝试加锁
+* `lock.lock();`才是真正向Redis中写入键，尝试加锁
 
 ```java
 import org.redisson.api.RLock;
