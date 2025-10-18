@@ -1,5 +1,6 @@
 ---
 title: minio的使用
+icon: pen-to-square
 date: 2025/10/6
 categories:
  - 杂谈

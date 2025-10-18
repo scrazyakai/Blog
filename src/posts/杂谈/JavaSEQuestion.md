@@ -1,5 +1,6 @@
 ---
 title: Java基础八股
+icon: pen-to-square
 date: 2025/10/2
 categories:
  - 杂谈

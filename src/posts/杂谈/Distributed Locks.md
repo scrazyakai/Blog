@@ -1,5 +1,6 @@
 ---
 title: 分布式锁
+icon: pen-to-square
 date: 2025/10/16
 categories:
  - 杂谈

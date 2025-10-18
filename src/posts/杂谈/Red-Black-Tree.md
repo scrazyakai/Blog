@@ -1,5 +1,6 @@
 ---
 title: 红黑树
+icon: pen-to-square
 date: 2025/10/18
 categories:
  - 杂谈

@@ -1,6 +1,7 @@
 ---
 title: 手写LRU
 date: 2025/10/14
+icon: pen-to-square
 categories:
  - 杂谈
 tags:

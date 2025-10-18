@@ -1,5 +1,6 @@
 ---
 title: 手写单例模式
+icon: pen-to-square
 date: 2025/10/14
 categories:
  - 杂谈
