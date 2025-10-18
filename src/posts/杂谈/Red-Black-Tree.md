@@ -184,9 +184,9 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
           R(R)
       ```
 
-      `S` 变成 `R` 原来的颜色
+      `R` 变成 `S` 的颜色
 
-      `R` 变S
+      `S` 变P
 
       `P` 变黑
 
@@ -214,9 +214,9 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
                    \
                     R(R)
 
-      `S` 变成 `R` 原来的颜色
+      `R` 变成 `S` 的颜色
 
-      `R` 变S
+      `S` 变P
 
       `P` 变黑
 
@@ -249,15 +249,9 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
       ```
 
       `R` 变成 `P` 原来的颜色
-
       `P` 变黑
-
-      `S` 变黑
-
       对 `S` 左旋，再对 `P` 右旋
-
       双黑变单黑
-
       处理后：
 
       ```
@@ -285,7 +279,6 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
 
       `P` 变黑
 
-      `S` 变黑
 
       对 `S` 右旋，再对 `P` 左旋
 
@@ -344,5 +337,5 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
 孩子代替，然后变黑即可
 
 ### 总结
-![image-20251018222137320.png](../../.vuepress/public/images/image-20251018222137320.png)
+https://akainews.oss-cn-beijing.aliyuncs.com/blog/image-20251018222137320.png
 
