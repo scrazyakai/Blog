@@ -337,5 +337,5 @@ parent右旋，grand左旋。对旋转点(grand)和中心点(z)进行变色
 孩子代替，然后变黑即可
 
 ### 总结
-![图片](/images/image-20251018222137320.png)
+![image-20251018222137320.png](../../.vuepress/public/images/image-20251018222137320.png)
 
