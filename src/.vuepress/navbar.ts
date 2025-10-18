@@ -39,6 +39,23 @@ export default navbar([
           },
         ],
       },
+      {
+        text: "杂谈",
+        icon: "pen-to-square",
+        prefix: "/杂谈",
+        children: [
+          {
+            text: "红黑树",
+            icon: "pen-to-square",
+            link: "https://www.52xinxin.top/posts/%E6%9D%82%E8%B0%88/Red-Black-Tree.html",
+          },
+          {
+            text: "限流",
+            icon: "pen-to-square",
+            link: "https://www.52xinxin.top/posts/%E6%9D%82%E8%B0%88/RateLimiting.html",
+          },
+        ],
+      }
       // { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       // "tomato",
