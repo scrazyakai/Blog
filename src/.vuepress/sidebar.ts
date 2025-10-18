@@ -25,7 +25,7 @@ export default sidebar({
     {
       text: "杂谈",
       icon: "book",
-      prefix: "posts/posts",
+      prefix: "posts/杂谈",
       children: "structure",
     },
     {
